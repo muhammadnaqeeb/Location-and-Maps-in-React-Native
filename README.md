@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
   },
 });
 ```
-![](001)
+![](https://github.com/muhammadnaqeeb/Location-and-Maps-in-React-Native/blob/main/images/001.jpeg)
 
 
 # Map in React Native
@@ -420,5 +420,5 @@ const styles = StyleSheet.create({
 });
 
 ```
-![](002)
+![](https://github.com/muhammadnaqeeb/Location-and-Maps-in-React-Native/blob/main/images/002.jpeg)
 
